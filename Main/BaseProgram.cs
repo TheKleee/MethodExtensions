@@ -1,5 +1,5 @@
 /*
- * Playing around with generics and method extentions! :D
+ * Playing around with generics and method extensions! :D
  */
 
 using System;
